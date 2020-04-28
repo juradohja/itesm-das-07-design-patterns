@@ -1,3 +1,6 @@
+package images;
+
+import images.converters.JPEGConverter;
 import java.io.File;
 
 public class InstagramImage extends Image {

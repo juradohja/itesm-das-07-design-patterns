@@ -1,3 +1,6 @@
+package images;
+import images.converters.JPGConverter;
+
 import java.io.File;
 
 public class TwitterImage extends Image {

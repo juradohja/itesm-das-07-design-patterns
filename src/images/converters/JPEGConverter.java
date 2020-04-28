@@ -1,3 +1,6 @@
+package images.converters;
+
+import images.Image;
 import java.io.File;
 
 public class JPEGConverter implements Converter {

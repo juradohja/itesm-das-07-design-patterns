@@ -1,3 +1,6 @@
+package images;
+
+import images.converters.PNGConverter;
 import java.io.File;
 
 public class PageImage extends Image {

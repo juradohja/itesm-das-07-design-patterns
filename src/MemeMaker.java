@@ -1,3 +1,8 @@
+import images.FacebookImage;
+import images.InstagramImage;
+import images.PageImage;
+import images.TwitterImage;
+
 import java.io.File;
 import java.util.List;
 

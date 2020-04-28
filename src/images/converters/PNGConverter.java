@@ -1,3 +1,6 @@
+package images.converters;
+
+import images.Image;
 import java.io.File;
 
 public class PNGConverter implements Converter {
@@ -7,7 +10,7 @@ public class PNGConverter implements Converter {
     }
 
     @Override
-    public File convert(Image iamge) {
+    public File convert(Image image) {
         // CONVERT PNG
         return null;
     }

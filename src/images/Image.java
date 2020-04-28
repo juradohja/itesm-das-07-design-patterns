@@ -1,4 +1,6 @@
-import javax.activation.MimeType;
+package images;
+
+import images.converters.Converter;
 import java.io.File;
 
 public abstract class Image {
